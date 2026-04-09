@@ -1,5 +1,7 @@
 #!/bin/bash
-
+<< help
+this is a multilne comment
+help
 src=$1
 dest=$2
 timespan=$(date '+%Y-%m-%d-%H-%M')
